@@ -1,7 +1,3 @@
-# lab-webpack-babel
-<<<<<<< HEAD
-My lab for practice about Webpack and Babel.
-
 ## Webpack คืออะไร ?
 Webpack คือ Module ของ Node.js เป็นตัวรวมไฟล์ (Bundler) และมีหน้าที่ Transpile JavaScript สมัยใหม่ออกมาเป็น JavaScript ที่สามารถใช้ได้กับ Web browser ปัจจุบันได้ทุกตัว ซึ่งไม่ว่าจะเป็น React, Angular, Vue.js ต่างก็นำ Webpack มาช่วยในรวมไฟล์ทั้งสิ้น จริงๆ webpack สามารถทำอะไรได้มากกว่านี้ สามารถค้นหาบนอินเตอร์เน็ทได้ด้วยตัวเอง
 
