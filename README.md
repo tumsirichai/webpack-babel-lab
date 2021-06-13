@@ -1,4 +1,5 @@
 # lab-webpack-babel
+<<<<<<< HEAD
 My lab for practice about Webpack and Babel.
 
 ## Webpack คืออะไร ?
@@ -129,7 +130,6 @@ npm install --save-dev css-loader style-loader
 ```
 
 
-
 ---
 
 ## Resources
@@ -137,3 +137,4 @@ npm install --save-dev css-loader style-loader
 - [ECMAScript compatibility table](https://kangax.github.io/compat-table/es6/)
 - [https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01](https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01)
 - [https://medium.com/@sivaraj-v/basic-webpack-4-and-es5-to-es6-transpiler-using-babel-dc66e72c86c6](https://medium.com/@sivaraj-v/basic-webpack-4-and-es5-to-es6-transpiler-using-babel-dc66e72c86c6)
+
