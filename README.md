@@ -125,6 +125,13 @@ module.exports = {
 npm install --save-dev css-loader style-loader
 ```
 
+## อธิบาย webpack.config.js
+>  * test: กำหนดนามสกุลไฟล์ที่ให้ Loader เข้าไปจัดการ เช่น .js
+>  * loader: ชื่อ Loader ที่เรียกใช้ เช่น babel-loader
+>  * exclude: โฟลเดอร์ที่ไม่ต้องเกี่ยวข้องไม่ต้อง Process
+>  * query.presets: preset ค่าที่​กำหนดล่วงหน้า
+
+
 ---
 
 ## Resources
@@ -132,3 +139,6 @@ npm install --save-dev css-loader style-loader
 - [ECMAScript compatibility table](https://kangax.github.io/compat-table/es6/)
 - [https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01](https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01)
 - [https://medium.com/@sivaraj-v/basic-webpack-4-and-es5-to-es6-transpiler-using-babel-dc66e72c86c6](https://medium.com/@sivaraj-v/basic-webpack-4-and-es5-to-es6-transpiler-using-babel-dc66e72c86c6)
+- [https://www.sitepoint.com/webpack-beginner-guide/](https://www.sitepoint.com/webpack-beginner-guide/)
+- [https://www.smashingmagazine.com/2021/06/getting-started-webpack/](https://www.smashingmagazine.com/2021/06/getting-started-webpack/)
+- [https://medium.com/geekculture/webpack-101-a-quick-look-at-webpack-and-its-uses-22ff598723a9](https://medium.com/geekculture/webpack-101-a-quick-look-at-webpack-and-its-uses-22ff598723a9)
